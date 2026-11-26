@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "chief_agent": "./src/langchain/s2.py:agent"
+    },
+    "env": ".env"
+}
